@@ -1,8 +1,8 @@
-h1 {
-  color: red;
-  font-size: large;
-  color: green;
-  color: 0;
+header {
+  background-image: url("../img/image-2.1.png");
+  height: 100vh;
+  width: 100%;
+  background-color: green;
 }
 
 /*# sourceMappingURL=style.css.map */
